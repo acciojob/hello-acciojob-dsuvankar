@@ -1,12 +1,12 @@
 
 /* Your CSS Code here. */
-main{
+.accio{
 	background-color:#000000;
 	width: "150px";
 	height: "150px";
 	
 }
-p{
+.hello-accio{
 	color: #ffffff;
 	margin-left:32px;
 	padding:10px;
